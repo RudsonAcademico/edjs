@@ -6,7 +6,7 @@ class Node {
     }
 }
 
-export default class LinkedStack {
+export default class Stack {
     constructor(){
         this.top = null
     }
@@ -56,3 +56,5 @@ export default class LinkedStack {
     }
 
 }
+
+export {Stack}

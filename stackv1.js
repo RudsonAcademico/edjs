@@ -22,7 +22,7 @@ function isEmpty(){
 
 // retornar o tamanho da pilha
 function size(){
-    return stack.length 
+    return stack.length
 }
 
 export {push, pop, peek, isEmpty, size, stack}
